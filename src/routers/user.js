@@ -1,5 +1,5 @@
 const express= require('express');
-const { update } = require('../models/user');
+/*const { update } = require('../models/user');*/
 require('../db/mongoose')
 const auth= require('../middleware/auth');
 const router = new express.Router();
@@ -81,7 +81,7 @@ router.patch('/users/me', auth,async (req,res)=>{
     res.status(400).send(e);
   }
 }) 
-
+//route for profile
 router.delete('/users/me',auth,async (req,res)=>{
   try{
     await req.user.remove();
