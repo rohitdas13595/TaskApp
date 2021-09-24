@@ -1,11 +1,14 @@
 {
   "name": "task",
   "version": "1.0.0",
-  "description": "",
   "main": "./src/index.js",
   "scripts": {
     "start": " node ./src/index.js",
-    "dev": "env-cmd -f ./config/dev.env nodemon src/index.js"
+    "dev": "env-cmd -f ./config/dev.env nodemon src/index.js",
+    "test": "env-cmd -f ./config/test.env jest --watchAll --runInBand"
+  },
+  "jest": {
+    "testEnvironment": "node"
   },
   "keywords": [],
   "author": "",
@@ -16,13 +19,27 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.2",
+    "mongoose": "^6.0.7",
     "multer": "^1.4.3",
     "sharp": "^0.29.1",
     "validator": "^13.6.0"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
-    "nodemon": "^2.0.12"
-  }
+    "jest": "^27.2.1",
+    "nodemon": "^2.0.12",
+    "supertest": "^6.1.6"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitdas13595/TaskApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohitdas13595/TaskApp/issues"
+  },
+  "homepage": "https://github.com/rohitdas13595/TaskApp#readme",
+  "description": ""
 }
