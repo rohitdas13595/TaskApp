@@ -1,5 +1,11 @@
 ### Hi there, I'm Rohit
-This is a task app Backend
+This is a task app Backend. One can run this using postman.
+
+
+### Features
+- Authentication
+- Webtokens
+- CRUD Operations.
 
 ## I'm a Developer, Student and a lifelong Learner!!
 
