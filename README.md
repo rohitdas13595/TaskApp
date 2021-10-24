@@ -7,19 +7,12 @@ This is a task app Backend. One can run this using postman.
 - Webtokens
 - CRUD Operations.
 
-## I'm a Developer, Student and a lifelong Learner!!
+### Things to learn
+- Encryption using bcrypt
+- Generation of json web auth tokens
+- Adding auth middleware to requests
+- MongoDB using mongoose 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers.
-- 🥅 2021 Goals: Learn MERN Stack and Classification in ML.
-- ⚡ Fun fact: I love to read books and listen podcasts.
-
-### Connect with me:
-
-[<img align="left" alt="Rohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Steps to run the project in your Machine:
 
@@ -35,6 +28,20 @@ This is a task app Backend. One can run this using postman.
 [<img align="left" alt="Node Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />][nodejs]
 [<img align="left" alt="Express" width="22px" src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" />][expressjs]
 <br />
+## I'm a Developer, Student and a lifelong Learner!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other Developers.
+- 🥅 2021 Goals: Learn MERN Stack and Classification in ML.
+- ⚡ Fun fact: I love to read books and listen podcasts.
+
+### Connect with me:
+
+[<img align="left" alt="Rohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 
 <br />
 
